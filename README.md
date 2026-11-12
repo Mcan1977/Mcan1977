@@ -20,4 +20,6 @@ TypeScript, React, Next.js, React Native, Node.js, PostgreSQL. Yapay zekâ taraf
 
 ## İletişim
 
+Projelerin ekran kayıtları ve ayrıntıları portfolyomda: [murat.canteknoloji.tr](https://murat.canteknoloji.tr)
+
 [LinkedIn](https://www.linkedin.com/in/murat-can%C3%B6rdek-87111a228)
